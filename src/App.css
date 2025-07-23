@@ -1,0 +1,42 @@
+
+body{
+    background-color: #F0F1F5;
+}
+.completed{
+    text-decoration: line-through;
+}
+button{
+    background-color: #604BDC;
+    width: 100px;
+    height: 37px;
+}
+ul{
+    color: #29ab29;
+
+}
+input[type="checkbox"]{
+    width: 22px;
+    height: 22px;
+    margin: 0px 10px;
+}
+label{
+    font-size: 20px;
+    margin-top: -6px;
+}
+.diff{
+    display: flex;
+    justify-content: space-between;
+}
+li{
+    cursor: pointer;
+    text-transform: capitalize;
+}
+li:hover{
+    transform: translateY(-10px);
+    transition: transform 0.3s;
+}
+@media(min-width:750px){
+    .container{
+        width: 570px;
+    }
+}
