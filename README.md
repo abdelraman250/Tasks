@@ -3,6 +3,8 @@
 > A simple and effective tasks app, built with React, that helps you easily organize your daily tasks. The app offers a clean user interface and lets you add tasks, mark them as done, delete them, and view completed, uncompleted, or all tasks.
 ## all tasks
 <img width="591" height="729" alt="task02" src="https://github.com/user-attachments/assets/8909b441-b796-4d17-9ab3-e01c5c0493c8" />
+
+
 ## complted tasks
 <img width="600" height="388" alt="task01" src="https://github.com/user-attachments/assets/b353c85b-dd47-4577-8dc0-a7a72dabff76" />
 
